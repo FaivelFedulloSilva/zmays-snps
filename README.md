@@ -1,4 +1,5 @@
-zea Mays SNP Calling Project
+Zea Mays SNP Calling Project
 Project started 2020-07-22
 Samples expected from sequencing core 2020-07-23
-\n\nMaize reference genome version: refgen3
+
+We downloaded refgen on 2020-07-23
